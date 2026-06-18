@@ -1,0 +1,11 @@
+Rice Variety Identification
+**********************************
+Algorithm / Model Used: DenseNet-121
+
+Accuracy train score: 99.0
+Accuracy test score: 99.3
+***********************************
+Algorithm / Model Used: MobileNet.
+
+Accuracy train score: 99.4
+Accuracy test score: 99.5
